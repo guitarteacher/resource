@@ -1,6 +1,6 @@
 ## Welcome to the resources for the guitar workshop
 
-You can use the [editor on GitHub](https://github.com/guitarteacher/resource/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Download latest lead sheet here [Guitar Jam in E minor](https://github.com/guitarteacher/resource/guitar.pdf) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
