@@ -1,7 +1,7 @@
 ## Welcome to the resources for the guitar workshop
 
 Download latest lead sheet here [Guitar Jam in E minor](https://github.com/guitarteacher/resource/guitar.pdf) 
-
+[I'm a relative reference to a repository file](..resource.guitar.pdf)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
